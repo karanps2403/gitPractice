@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 Hello world
 mangos
 monkeysy
 
+=======
+Hey there
+mangos
+monkeys
+>>>>>>> testing
